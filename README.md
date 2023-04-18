@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repositorio del modulo2 del prep
+Esto es una prubea de como crear un repo y clonarlo desde github a mi computadora
